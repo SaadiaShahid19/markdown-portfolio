@@ -1,0 +1,6 @@
+- Favourite things
+  - anime movies: Kimi no Na wa
+  - roses
+  - colour red
+  - poetry
+  - technology
