@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Favourite things
+  - anime movies: Kimi no Na wa
+  - roses
+  - colour red
+  - poetry
+  - technology
