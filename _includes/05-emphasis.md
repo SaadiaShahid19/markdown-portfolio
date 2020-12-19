@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I enjoy learning about technology and robotics and **inshaAllah**, I *will* see myself in the field soon.
